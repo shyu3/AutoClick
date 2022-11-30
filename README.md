@@ -1,4 +1,8 @@
-* 기본적으로 detecting 수준이 낮기 때문에 돌리다가 몇개 놓치는거 아래 방법으로 계속 데이터 추가하셈."
+*********pyinstaller 로 .exe 파일 만들기 ***
+pyinstaller -F -w --icon=./painkiller_icon.png --onefile painkiller.py
+
+
+* 기본적으로 detecting 수준이 낮기 때문에 돌리다가 몇개 놓치는거 아래 방법으로 계속 이미지 데이터 추가하는 방식 ."
 
 1. asset_list 폴더에 asset1, asset2, asset3...assetN 순으로 이미지 파일을 캡처해서 계속 추가하면됨.
 이미지 파일 갯수하고 최대 번호는 일치해야함.

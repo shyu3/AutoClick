@@ -1,0 +1,10 @@
+
+
+2. comand button 0
+3. 중간 pause 0
+4. 하나하나씩 디텍팅 기능 0
+
+
+*********pyinstaller 로 .exe 파일 만들기 ***
+pyinstaller -F -w --icon=./painkiller_icon.png --onefile painkiller.py
+pyinstaller -F -w main.py
