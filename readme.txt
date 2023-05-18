@@ -9,3 +9,4 @@ image num 	: 현재 asset_list 안에 있는 파일 수 나타내고 있으며, 
 ReFresh 		: asset_list 폴더에 있는 이지미 수 갱신.
 "On/Off" 체크 박스 	: 마우스 클릭 기능 On/Off 하는것. (이미지 테스팅을 위한 해제기능)
 Run		: detecting 시작 하여 마우스 이동 시작
+test.1
